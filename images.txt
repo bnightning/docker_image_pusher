@@ -1,1 +1,1 @@
-image.sourcefind.cn:5000/dcu/admin/base/pytorch:2.3.0-ubuntu22.04-dtk24.04.2-py3.10
+openjdk:17-jdk-slim

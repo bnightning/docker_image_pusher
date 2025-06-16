@@ -1,3 +1,2 @@
---platform=linux/arm64 minio/minio:RELEASE.2025-04-22T22-12-26Z
---platform=linux/arm64 mysql:8.0.42
---platform=linux/arm64 redis:8.0.2
+bitnami/postgresql:17.5.0
+--platform=linux/arm64 bitnami/postgresql:17.5.0

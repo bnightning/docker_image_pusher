@@ -1,2 +1,2 @@
-bitnami/postgresql:17.5.0
---platform=linux/arm64 bitnami/postgresql:17.5.0
+minio/minio:RELEASE.2022-02-01T18-00-14Z
+--platform=linux/arm64 minio/minio:RELEASE.2022-02-01T18-00-14Z

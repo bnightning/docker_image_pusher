@@ -1,2 +1,2 @@
-minio/minio:RELEASE.2022-02-01T18-00-14Z
---platform=linux/arm64 minio/minio:RELEASE.2022-02-01T18-00-14Z
+opengauss/opengauss:7.0.0-RC2.B010
+--platform=linux/arm64 opengauss/opengauss:7.0.0-RC2.B010

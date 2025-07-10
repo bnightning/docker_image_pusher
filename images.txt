@@ -1,2 +1,1 @@
---platform=linux/amd64 openeuler/python:3.10.17-oe2203lts
---platform=linux/arm64 openeuler/python:3.10.17-oe2203lts
+openeuler/python:3.10.17-oe2203lts
